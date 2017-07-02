@@ -1,13 +1,5 @@
-Hello!
-
-+++
-
-Hola!
+UdacityでReact Trainingコースを受けてみた
 
 ---
 
-Goodbye!
 
-+++
-
-Adiós!
